@@ -1,6 +1,6 @@
 # Buscas-Binarias
 
-Testes em como um algoritimo de buscas binárias funcionam em listas ordenadas.
+Testes em como um algoritimo de buscas binárias funciona em listas ordenadas.
 
 Tem a seguinte estrutura:
 
